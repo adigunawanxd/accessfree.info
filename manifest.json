@@ -1,0 +1,66 @@
+{
+  "short_name": "Accessfree",
+  "name": "Blog Accessfree.info",
+  "description": "Akses Gratis ke Ribuan Source Code Aplikasi, Script Pemrograman, Karya Desain Grafis, Software, Tools, Plugin, Tema, dan Template Premium",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-Pe-U4PcHOGA/YHjeYwQYTlI/AAAAAAAAA5E/2lLJVuSSJKkAM-bUivfGnlfyzoHpmOkBQCLcBGAsYHQ/s32/MycodingLogo32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-IlqRkVj22qU/YHjeZgtkI_I/AAAAAAAAA5I/jgKNCOL5-csoEghGFtkFREZahD--Zb-GQCLcBGAsYHQ/s48/MycodingLogo48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-Y-G3SB_0guc/YHjeaJ7_YNI/AAAAAAAAA5Q/_E6aK_jF6M4k6SlMIdzfcV8zipLlTUbSwCLcBGAsYHQ/s72/MycodingLogo72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-6DSscUk4MzE/YHjeaPtw1LI/AAAAAAAAA5U/q77Plj4RaEg8GwaNOM-4MW3NkNYJUf2qQCLcBGAsYHQ/s96/MycodingLogo96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-QmrngnE4nZw/YHjeX7KfvYI/AAAAAAAAA48/cO5r9ufdsWQZYRNwZs-P6HuNPKuoH3NuQCLcBGAsYHQ/s144/MycodingLogo144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-ROY0C-1Qu3Q/YHjeX9ZCNiI/AAAAAAAAA44/cq70gsaechEYraUR-XwxN02k3AVeHxyXQCLcBGAsYHQ/s168/MycodingLogo168.png",
+      "sizes": "168x168",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-4-6ZcX0TJco/YHjeXv-SyZI/AAAAAAAAA40/KRYjNMtKTs8oi5Hc0mX9DTKxdVI7wOCIACLcBGAsYHQ/s180/MycodingLogo180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-R-Zt0DdtgEE/YHjeYvDjtPI/AAAAAAAAA5A/1dgsS9dCALYl_2y-sdSaXJHQcIKllyL0ACLcBGAsYHQ/s192/MycodingLogo192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-yMEYtM2wcjI/YHjeZ6ItJsI/AAAAAAAAA5M/t7Mlo-cTXWYrIbAgvAa4nigTSDNN15rdwCLcBGAsYHQ/s512/MycodingLogo512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "https://accessfree.info",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#0080C0"
+}
